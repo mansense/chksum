@@ -1,0 +1,49 @@
+.mainbody{
+    min-height: 900px;
+    font-family: 'Open Sans', sans-serif;    
+}
+
+.centerd {
+    border-radius: 16px;
+    width: 400px;
+
+    text-align: center;
+    background-position: bottom;
+    background-repeat: no-repeat;
+  }
+
+.body-title {
+    background:rgb(110, 7, 0);
+    color: #FFF    
+}
+
+.file-input {
+    background:rgba(83, 165, 168, 0.486);
+    color: rgb(110, 7, 0);   
+}
+
+.body-output {
+    color: rgba(88, 87, 87, 0.76);
+        
+}
+
+.btn-submit{
+	background-color: rgb(110, 7, 0);
+	padding: 10px;
+	color: #fff;
+	font-weight: 100;
+    width:160px; 
+}
+.btn-submit:hover{
+	background-color: rgb(20, 2, 68);
+
+}
+.btn-submit:active{
+	background-color: rgb(248, 113, 2);
+}
+
+.footer {
+    padding: 10px;
+    border-top: 4px solid rgb(110, 7, 0);  
+}
+
